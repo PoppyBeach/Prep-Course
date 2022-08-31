@@ -27,7 +27,7 @@ const nuevoModulo = 21 % 5 === 4.2;
 
 function devolverString(str) {
   // "Return" la string provista: str
-  // Tu código:
+  // Tu código:var a = '15'
   
 }
 
@@ -35,24 +35,43 @@ function suma(x, y) {
   // "x" e "y" son números
   // Suma "x" e "y" juntos y devuelve el valor
   // Tu código:
+  var x = 5
+  var y = 3
+  x + y
+  8
+
+
   
 }
 
 function resta(x, y) {
   // Resta "y" de "x" y devuelve el valor
   // Tu código:
-  
+  var x = 5
+  var y = 3
+  x - y
+  2
+
 }
 
 function multiplica(x, y) {
   // Multiplica "x" por "y" y devuelve el valor
   // Tu código:
-  
+  var x = 5
+  var y = 3
+  x * y
+  15
+
 }
 
 function divide(x, y) {
   // Divide "x" entre "y" y devuelve el valor
   // Tu código:
+  var x = 5
+  var y = 3
+  x / y
+  1.6666666666666667
+
   
 }
 
@@ -60,6 +79,7 @@ function sonIguales(x, y) {
   // Devuelve "true" si "x" e "y" son iguales
   // De lo contrario, devuelve "false"
   // Tu código:
+  var x=y = false
   
 }
 
